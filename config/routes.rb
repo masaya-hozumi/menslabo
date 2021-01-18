@@ -5,4 +5,6 @@ Rails.application.routes.draw do
   get  '/inquiry', to: 'static_pages#inquiry'
 
   get  '/signup',  to:'users#new'
+
+  resources :users
 end

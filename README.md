@@ -1,7 +1,7 @@
-# README
+# MEN'S Labo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ここは男性もいつまでも綺麗でカッコよくをテーマにした
+メンズ美容SNSです。
 
 Things you may want to cover:
 

@@ -5,6 +5,7 @@ ruby '2.6.6'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.3'
+gem 'bcrypt',         '3.1.13'
 gem 'bootstrap-sass', '3.4.1'
 # 開発・本番・テスト環境をmysql2に変更
 # gem 'sqlite3'
